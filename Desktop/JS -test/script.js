@@ -5,12 +5,12 @@ const dishes = [
   "Beans on toast",
   "Porridge",
   "Tomato soup",
-  "Salmon",
+  "Salmons",
 ];
 for (let i = 0; i < dishes.length; i++) {
   console.log(dishes[i]);
 }
-
+// a
 //2.DOM manipulation
 const testButton = document.createElement("button");
 const buttonText = document.createTextNode("This is a button!");
